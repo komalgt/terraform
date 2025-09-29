@@ -1,0 +1,16 @@
+1. Module Usage Example
+Provide a clear, copy-paste ready example showing how to call your module.
+Suppose your module is called networking and lives in ./modules/s3/bucket.
+2. Inputs and Outputs Table
+List all input variables your module expects and what it outputs.
+3. Usage Instructions
+
+How to use:
+Copy the module to your codebase (or reference its source).
+Add the usage example to your root configuration.
+Populate required module input variables.
+Run terraform init and terraform apply.
+Referencing outputs:
+After applying, you can reference output values in your root module:
+
+
